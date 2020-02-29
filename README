@@ -1,0 +1,6 @@
+echo "# ly" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/liuyu0101/ly.git
+git push -u origin master
